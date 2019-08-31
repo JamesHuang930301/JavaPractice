@@ -1,3 +1,5 @@
+package calculator;
+
 public class Calculator {
     public static String sum(int a, int b) {
         String result = null;
